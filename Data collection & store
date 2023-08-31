@@ -1,3 +1,3 @@
 #Process of Data Collection
-I use this link the "https://github.com/PhonePe/pulse#readme" to get from phonepe.
-Extract all data into my PC to store data into project location and i create csv file for State as "Statename.csv"
+I use this link the "https://github.com/PhonePe/pulse#readme" to get data from phonepe.
+Extract all data into my PC to store data file into the project location and i create csv file for State as "Statename.csv"
